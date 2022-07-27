@@ -1,4 +1,4 @@
-package com.designpatterns.prototype;
+package com.designpatterns.creational.prototype;
 
 public class Bird {
     private String name;

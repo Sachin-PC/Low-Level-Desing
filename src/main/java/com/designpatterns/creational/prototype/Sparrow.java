@@ -1,4 +1,4 @@
-package com.designpatterns.prototype;
+package com.designpatterns.creational.prototype;
 
 public class Sparrow extends Bird {
     private int legSize;

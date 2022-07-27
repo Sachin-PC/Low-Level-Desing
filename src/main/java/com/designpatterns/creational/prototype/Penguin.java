@@ -1,4 +1,4 @@
-package com.designpatterns.prototype;
+package com.designpatterns.creational.prototype;
 
 public class Penguin extends Bird{
     private String beakType;
